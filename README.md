@@ -1,6 +1,4 @@
-Let's manually translate the content into English while maintaining the markdown structure. Here is the translated content:
 
-```markdown
 # TyAdmin: Django based Models **No Code** zero-code, zero-learning cost management backend front-end generation tool, driven by Django Restful Framework and Ant Design Pro V4
 
 ![](https://img.shields.io/pypi/v/tyadmin-api-cli)
@@ -147,10 +145,3 @@ last_login = DateTimeField(verbose_name="Last Login")
 
 > Note that those set with default and auto_now will not appear in the form
 ![](http://cdn.pic.funpython.cn/blog_img/20201010195116.png)
-```
-
-Now, I will save this translated content into a new markdown file for you to download.
-
-The translated markdown file has been created. You can download it using the link below:
-
-[Download Translated README.md](sandbox:/mnt/data/README_translated.md)
